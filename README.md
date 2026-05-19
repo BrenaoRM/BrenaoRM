@@ -30,14 +30,6 @@ Linguagens & Desenvolvimento Web
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </picture>
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=BrenaORM&show_icons=true&bg_color=35%2C0d1117%2C1a1b27%2C2d2b55&title_color=ff6e96&icon_color=79dafa&text_color=c9d1d9&border_radius=15&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=BrenaORM&show_icons=true&bg_color=45%2Ce0c3fc%2C8ec5fc&title_color=1f2328&icon_color=0969da&text_color=24292f&border_radius=15&hide_border=true" />
-    <img alt="Estatísticas do GitHub" src="https://github-readme-stats-fast.vercel.app/api?username=BrenaORM&show_icons=true&bg_color=35%2C0d1117%2C1a1b27%2C2d2b55&title_color=ff6e96&icon_color=79dafa&text_color=c9d1d9&border_radius=15&hide_border=true" height="180px" />
-  </picture>
-</p>
-
 ✉️ Vamos nos conectar!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenorodriguesmota@gmail.com)
