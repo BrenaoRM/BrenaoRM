@@ -1,5 +1,7 @@
 🎓 Sistemas de Informação UFV | ⚡ Técnico em Eletrônica | Aspiring Full-Stack Developer
+
 🚀 Sobre Mim
+
 Sou estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV) com formação técnica em Eletrônica.
 Essa combinação me permite enxergar a tecnologia sob duas perspectivas: a lógica abstrata do software e o funcionamento físico do hardware.
 
