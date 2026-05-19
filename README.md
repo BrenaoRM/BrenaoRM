@@ -25,4 +25,5 @@ Linguagens & Desenvolvimento Web
 ![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ✉️ Vamos nos conectar!
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenorodriguesmota@gmail.com)
