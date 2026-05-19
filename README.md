@@ -1,6 +1,7 @@
 🎓 Sistemas de Informação UFV | ⚡ Técnico em Eletrônica | Aspiring Full-Stack Developer
 🚀 Sobre Mim
-Sou estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV) com formação técnica em Eletrônica. Essa combinação me permite enxergar a tecnologia sob duas perspectivas: a lógica abstrata do software e o funcionamento físico do hardware.
+Sou estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV) com formação técnica em Eletrônica.
+Essa combinação me permite enxergar a tecnologia sob duas perspectivas: a lógica abstrata do software e o funcionamento físico do hardware.
 
 Atualmente, estou mergulhando no Desenvolvimento Web com o objetivo de dominar a stack full-stack e construir soluções completas, escaláveis e seguras.
 
@@ -24,6 +25,5 @@ Linguagens & Desenvolvimento Web
 ![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ✉️ Vamos nos conectar!
-
-[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
-[(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenorodriguesmota@gmail.com)
+![(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
+![(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenorodriguesmota@gmail.com)
