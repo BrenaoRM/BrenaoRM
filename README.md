@@ -30,10 +30,11 @@ Linguagens & Desenvolvimento Web
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </picture>
 
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenaORM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px">
-</picture>
+<p align="left">
+  <picture>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=BrenaORM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px">
+  </picture>
+</p>
 
 ✉️ Vamos nos conectar!
 
