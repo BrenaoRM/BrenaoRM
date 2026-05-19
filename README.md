@@ -1,16 +1,30 @@
-## Hi there 👋
+🎓 Sistemas de Informação UFV | ⚡ Técnico em Eletrônica | Aspiring Full-Stack Developer
+🚀 Sobre Mim
+Sou estudante de Sistemas de Informação na Universidade Federal de Viçosa (UFV) com formação técnica em Eletrônica. Essa combinação me permite enxergar a tecnologia sob duas perspectivas: a lógica abstrata do software e o funcionamento físico do hardware.
 
-<!--
-**BrenaoRM/BrenaoRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou mergulhando no Desenvolvimento Web com o objetivo de dominar a stack full-stack e construir soluções completas, escaláveis e seguras.
 
-Here are some ideas to get you started:
+🎓 Educação: Bacharelado em Sistemas de Informação - UFV (Em andamento).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interesses: Desenvolvimento Web (Front-end e Back-end).
+
+🌱 No momento estudando: Desenvolvimento Web Full-Stack, JavaScript, React e Node.js.
+
+📫 Como me encontrar: Entre em contato através das minhas redes abaixo!
+
+🛠️ Tecnologias & Ferramentas
+Para os meus estudos e projetos acadêmicos, utilizo as seguintes stacks:
+
+Linguagens & Desenvolvimento Web
+!(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+!(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+!(https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+Baixo Nível & Hardware
+
+Controle de Versão
+
+📊 Estatísticas de Código
+✉️ Vamos nos conectar!
+
+📧 brenorodriguesmota@gmail.com
