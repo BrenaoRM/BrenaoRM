@@ -14,6 +14,7 @@ Atualmente, estou mergulhando no Desenvolvimento Web com o objetivo de dominar a
 
 🛠️ Tecnologias & Ferramentas
 Para os meus estudos e projetos acadêmicos, utilizo as seguintes stacks:
+
 Linguagens & Desenvolvimento Web
 
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,4 +25,5 @@ Linguagens & Desenvolvimento Web
 
 ✉️ Vamos nos conectar!
 
-📧 brenorodriguesmota@gmail.com
+[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
+[(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenorodriguesmota@gmail.com)
