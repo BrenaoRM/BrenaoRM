@@ -11,7 +11,7 @@ Atualmente, estou mergulhando no Desenvolvimento Web com o objetivo de dominar a
 
 💡 Interesses: Desenvolvimento Web (Front-end e Back-end).
 
-🌱 No momento estudando: Desenvolvimento Web Full-Stack, JavaScript, React e Node.js.
+🌱 Estudando: Desenvolvimento Web Full-Stack, JavaScript, React e Node.js.
 
 📫 Como me encontrar: Entre em contato através das minhas redes abaixo!
 
