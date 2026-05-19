@@ -32,7 +32,7 @@ Linguagens & Desenvolvimento Web
 
 <p align="left">
   <picture>
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=BrenaORM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=BrenaORM&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" alt="Estatísticas do GitHub" height="180px">
   </picture>
 </p>
 
