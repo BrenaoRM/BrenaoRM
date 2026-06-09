@@ -1,4 +1,4 @@
-🎓 Sistemas de Informação UFV | ⚡ Técnico em Eletrônica | Aspiring Full-Stack Developer
+🎓 Sistemas de Informação UFV |⚡Técnico em Eletrônica | Aspiring Full-Stack Developer
 
 🚀 Sobre Mim
 
